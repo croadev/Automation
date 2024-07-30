@@ -1,0 +1,9 @@
+Ejecutando Disco_C1
+Cliente recurrente, Retiro en Tienda, Food
+Script iniciado a las: 2024-07-30 14:48:52
+Inicia Sucursales...
+Clickeando Buscador. Cuac
+ir a checkout
+Script culminado con éxito
+Script finalizado a las: 2024-07-30 14:50:31
+El script tardó 98.72 segundos en ejecutarse.

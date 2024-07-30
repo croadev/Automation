@@ -21,10 +21,12 @@ class WebDriverManager:
         chrome_options.add_argument('--disable-gpu')
 
         # Instalar y configurar el servicio de ChromeDriver
-        service = Service(ChromeDriverManager().install())
+        # service = Service(ChromeDriverManager().install())
+
+        service = Service(r"C:\Users\CROA\AppData\Local\Programs\Python\Python312\chromedriver.exe")
 
         self.__driver = webdriver.Chrome(
-            service=service, options=chrome_options)
+            service=service) #options=chrome_options)
         self.__driver.set_window_size(1024, 600)
         self.__driver.maximize_window()
         self.__driver.implicitly_wait(15)

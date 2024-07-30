@@ -1,0 +1,9 @@
+Ejecutando Disco_C1
+Cliente recurrente, envío a domicilio, Food
+Script iniciado a las: 2024-07-30 14:47:07
+ingresando en Modal de Geolocalizacion
+Clickeando Buscador. Cuac
+ir a checkout
+Script culminado con éxito
+Script finalizado a las: 2024-07-30 14:48:37
+El script tardó 89.83 segundos en ejecutarse.

@@ -6,6 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from Services.FuncionesManager import FuncionesModular
 import time
 
+
 def main():
     disco_modular = FuncionesModular(
         "https://www.disco.com.ar")

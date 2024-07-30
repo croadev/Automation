@@ -1,0 +1,32 @@
+Ejecutando Disco_C3
+Cliente recurrente, Retiro en Tienda, Electro
+Script iniciado a las: 2024-07-30 14:52:22
+Inicia Sucursales...
+Clickeando Buscador. Cuac
+ir a checkout
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0092B533+23523]
+	(No symbol) [0x008EF4A4]
+	(No symbol) [0x00820A93]
+	(No symbol) [0x008636BF]
+	(No symbol) [0x008638FB]
+	(No symbol) [0x0089F2D2]
+	(No symbol) [0x00884884]
+	(No symbol) [0x0089D013]
+	(No symbol) [0x008845D6]
+	(No symbol) [0x008583A7]
+	(No symbol) [0x00858C9D]
+	GetHandleVerifier [0x00A38F93+1128003]
+	GetHandleVerifier [0x00A427EC+1167004]
+	GetHandleVerifier [0x00A3BE94+1140036]
+	GetHandleVerifier [0x0095617B+198699]
+	(No symbol) [0x008F79E3]
+	(No symbol) [0x008F3FA8]
+	(No symbol) [0x008F4147]
+	(No symbol) [0x008EBF4E]
+	BaseThreadInitThunk [0x75FAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774480CE+286]
+	RtlGetAppContainerNamedObjectPath [0x7744809E+238]
+
+Ocurrio un error
